@@ -1,6 +1,6 @@
 # 🚀 Desafio Técnico: Performance e Análise de Dados via API
 
-Este repositório contém a implementação de uma API utilizando **Go (Golang)** para ingestão e análise de dados de usuários em massa. Essa é a resolução de um desafio proposto pela Codecon que pode ser achado [aqui](https://github.com/codecon-dev/desafio-1-1s-vs-3j).
+Este repositório contém a implementação de uma API utilizando **Go (Golang)** para ingestão e análise de dados de usuários em massa. Essa é a resolução de um desafio proposto pela Codecon que pode ser achado [aqui](https://github.com/codecon-dev/desafio-1-1s-vs-3j)
 .
 
 ---
